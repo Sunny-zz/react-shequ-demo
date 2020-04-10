@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bca5a1a1629fed601fdc77d0a1af3941",
+    "revision": "28423eb60f3c0a0aef527e37b6126c23",
     "url": "/react-shequ-demo/index.html"
   },
   {
-    "revision": "83a3a48c57f5f0b0098b",
+    "revision": "df59f96ebac6d628972d",
     "url": "/react-shequ-demo/static/css/2.d788185a.chunk.css"
   },
   {
-    "revision": "2e9430d0e1341f336c94",
+    "revision": "e241a8a626c1a95dff04",
     "url": "/react-shequ-demo/static/css/main.eac43d90.chunk.css"
   },
   {
-    "revision": "83a3a48c57f5f0b0098b",
-    "url": "/react-shequ-demo/static/js/2.0c6740e8.chunk.js"
+    "revision": "df59f96ebac6d628972d",
+    "url": "/react-shequ-demo/static/js/2.ed2e7ec7.chunk.js"
   },
   {
     "revision": "eff3b4d7e4bb0087ce53139cd90bc880",
-    "url": "/react-shequ-demo/static/js/2.0c6740e8.chunk.js.LICENSE.txt"
+    "url": "/react-shequ-demo/static/js/2.ed2e7ec7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2e9430d0e1341f336c94",
-    "url": "/react-shequ-demo/static/js/main.d0da1e59.chunk.js"
+    "revision": "e241a8a626c1a95dff04",
+    "url": "/react-shequ-demo/static/js/main.069b0860.chunk.js"
   },
   {
     "revision": "b0b1ebe3a2532e848bc4",

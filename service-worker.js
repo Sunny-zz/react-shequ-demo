@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-shequ-demo/precache-manifest.953cc894ae7726adaf8a7ae8595e81f8.js"
+  "/react-shequ-demo/precache-manifest.9cc7df70fc709c0fc8d40ae54111f4d5.js"
 );
 
 self.addEventListener('message', (event) => {
